@@ -136,3 +136,12 @@ void loop() {
 - Processa mensagens recebidas (chama o `callback` quando chegar mensagem).
 
 ----------------------------------------------------
+
+## FOTOS
+![Imagem do WhatsApp de 2025-06-09 à(s) 21 31 20_fb63a734](https://github.com/user-attachments/assets/0495fc68-be73-457a-a6b5-29e2b9c86a8a)
+![Imagem do WhatsApp de 2025-06-09 à(s) 21 31 18_5dc05349](https://github.com/user-attachments/assets/c6490add-8114-4451-b3a6-422f4c02f272)
+![Imagem do WhatsApp de 2025-06-09 à(s) 21 31 26_760f26ae](https://github.com/user-attachments/assets/0a1882ae-51b0-4115-aaab-5736803fbb6e)
+
+
+
+##
