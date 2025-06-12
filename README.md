@@ -1,6 +1,5 @@
 # Projeto MQTT e Mosquitto
-## Alunos:
-### Jakson Fritzen, Mateus Bringhenti e Vitor Bortot
+## Alunos: ### Jakson Fritzen, Mateus Bringhenti e Vitor Bortot
 ---------------------------------------------------
 # Explicação do Código - Controle de LEDs via MQTT com NodeMCU
 
