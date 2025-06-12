@@ -5,7 +5,7 @@
 ----------------------------------------------------
 
 ## 🔧 O que é o projeto?
-#### É um sistema de automação residencial com NodeMCU (ESP8266) que permite ligar e desligar LEDs via mensagens MQTT, simulando controle de luzes em diferentes cômodos da casa.
+- É um sistema de automação residencial com NodeMCU (ESP8266) que permite ligar e desligar LEDs via mensagens MQTT, simulando controle de luzes em diferentes cômodos da casa.
 
 ## 1. Inclusão das bibliotecas
 
